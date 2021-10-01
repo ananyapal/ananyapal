@@ -29,7 +29,7 @@ I am a Master's in Computer Science student at Arizona State University. I gradu
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/ananyapal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyapal&show_icons=true&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/ananyapal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
