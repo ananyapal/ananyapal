@@ -26,11 +26,11 @@ I am a Master's in Computer Science student at Arizona State University. I gradu
 <a href="https://www.github.com/in/ananyapal/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <a href="https://github.com/ananyapal">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyapal&theme=material-palenight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyapal&theme=tokyonight" />
 </a><br>
 <a href="https://github.com/ananyapal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyapal&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyapal&show_icons=true&theme=tokyonight" />
 </a><br>
 <a href="https://github.com/ananyapal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyapal&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyapal&layout=compact&theme=tokyonight" />
 </a><br>
