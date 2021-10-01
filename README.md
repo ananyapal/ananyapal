@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I am Ananya! 👋
 
   
-## 🚀 About Me
+## About Me
 I am a Master's in Computer Science student at Arizona State University. I graduate in May 2022 and I am currently looking for entry-level full-time SDE roles. I am also open to internships in Winter 2021 / part-time work during the semester.
 
 ## My Languages: 👩‍💻
