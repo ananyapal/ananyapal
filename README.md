@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 I am a Master's in Computer Science student at Arizona State University. I graduate in May 2022 and I am currently looking for entry-level full-time SDE roles. I am also open to internships in Winter 2021 / part-time work during the semester.
   
 <a href="https://www.linkedin.com/in/ananyapal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="https://www.github.com/in/ananyapal/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
