@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 ## 📖 About Me
 I am a Master's in Computer Science student at Arizona State University, graduating in May 2022. When I'm not coding or attempting to learn new things, you'll find me immersed in music or strumming the guitar. I can work successfully as part of a team and as a leader, keeping others motivated and aligned towards a common goal.
-In terms of programming languages, I've done a lot of work in Java (including Android) and Python (especially Machine Learning), but I'll admit that I have a preference in Java. Currently, I'm working on a project as a part of the Data Visualization course to improve my skills with front-end technologies like HTML, CSS, and JavaScript (using D3.js). As an ASU GHC Scholar, I attended the virtual Grace Hopper Conference 2021 and had a terrific experience! There's always something new to learn if you keep your eyes open for challenges and on a look out for opportunities!
+In terms of programming languages, I've done a lot of work in Java (including Android) and Python (especially Machine Learning), but I'll admit that I have a preference in Java. Currently, I'm working on a project as a part of the Data Visualization course to improve my skills with front-end technologies like HTML, CSS, and JavaScript (using D3.js). As an ASU GHC Scholar, I attended the virtual Grace Hopper Conference 2021 and had a terrific experience! There's always something new to learn if you keep your eyes open for challenges and be on a look out for opportunities!
 
  
 ## 👩‍💻 Languages
