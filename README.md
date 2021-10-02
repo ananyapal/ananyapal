@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 # Hi, I am Ananya! 👋
   
 ## 📖 About Me
-I am a Master's in Computer Science student at Arizona State University. I graduate in May 2022 and I am currently looking for entry-level full-time SDE roles. I am also open to internships in Winter 2021 / part-time work during the semester.
+I am a Master's in Computer Science student at Arizona State University. When I'm not coding or attempting to learn new things, you'll find me immersed in music or strumming the guitar. I can work successfully as part of a team and as a leader, keeping others motivated and aligned towards a common goal.
+In terms of programming languages, I've done a lot of work in Java and Python, but I'll admit that I have a preference in Java. Currently, I'm working on a project and taking a Data Visualization course to improve my skills with front-end technologies like HTML, CSS, and JavaScript (using D3.js). I'm currently working on a project and taking a Data Visualization course to learn more about and improve my skills with front-end technologies such as HTML, CSS, and JavaScript (using D3.js). As an ASU GHC Scholar, I attended the virtual Grace Hopper Conference 2021 and had a terrific experience! There's always something new to learn if you keep your eyes open for challenges and on a look out for opportunities!
 
  
 ## 👩‍💻 Languages
